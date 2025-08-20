@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dumpsterdj/Rose-Animation/main/rose.gif" alt="Animação de Rosa" width="300"/>
-</p>
-
-
-<h1 align="center">Camilli Fidelis</h1>
+<h1 align="center">Hello World! I'm Camilli Fidelis</h1>
 <h3 align="center">Student of Information Systems | Aspiring Back-end Java Developer</h3>
 
 ---
@@ -37,7 +32,7 @@ This section will showcase my completed projects soon. All projects will include
 ---
 
 ## Contact
-Let's connect: [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [Email](mailto:seuemail@example.com)
+Let's connect: [LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/camilli-fidelis-40287b228/)) | [Email](mailto:scfidelisg@gmail.com)
 
 ---
 
