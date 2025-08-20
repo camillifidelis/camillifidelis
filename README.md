@@ -1,10 +1,6 @@
 <h1 align="center">
- Hello World
+ Hello World | I'm Camilli Fidelis
 </h1>
-
-<h3 align="center">
-  Camilli Fidelis
-</h3>
 
 <h3 align="center">
     Student of Information Systems | Aspiring Back-end Java Developer
