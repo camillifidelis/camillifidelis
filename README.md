@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/0fce1d8f4c3f3d6cfa8b6a19e1ee2dbeb0f0f2e1fbc1b0b6e9a1d4a0d36b3d3e/68747470733a2f2f6930362e696d6775722e636f6d2f736d616c6c2d68656c6c6f2d776f726c642d70696e6b2e676966" alt="Hello World" width="400"/>
+  <img src="https://raw.githubusercontent.com/dumpsterdj/Rose-Animation/main/rose.gif" alt="Animação de Rosa" width="300"/>
 </p>
+
 
 <h1 align="center">Camilli Fidelis</h1>
 <h3 align="center">Student of Information Systems | Aspiring Back-end Java Developer</h3>
