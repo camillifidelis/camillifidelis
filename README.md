@@ -33,7 +33,7 @@ This section will showcase my completed projects soon. All projects will include
 ---
 
 ## Contact
-Let's connect: [LinkedIn]([https://www.linkedin.com/in/camilli-fidelis-40287b228/]) | [Email](mailto:scfidelisg@gmail.com)
+Let's connect: [LinkedIn](https://www.linkedin.com/in/camilli-fidelis-40287b228/) | [Email](mailto:cfidelisg@gmail.com)
 
 ---
 
