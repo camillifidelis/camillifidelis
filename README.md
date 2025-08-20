@@ -12,7 +12,9 @@ Currently, I am a student on the Bachelor's degree in Information Systems at UFR
   </a>
 </p> <br> <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=camillifidelis&show_icons=true&title_color=831843&text_color=050505&bg_color=fbcfe8&hide_border=true&locale=en&layout=compact" alt="camillifidelis" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camillifidelis&show_icons=true&title_color=831843&text_color=050505&bg_color=fbcfe8&hide_border=true&locale=en&layout=compact" alt="camillifidelis" />
+</p>
 
 <br>[![](https://visitcount.itsvg.in/api?id=camillifidelis&label=Profile%20Views&color=10&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
