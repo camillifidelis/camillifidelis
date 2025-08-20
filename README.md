@@ -1,5 +1,4 @@
-<h1 align="center">Hello World </h1>
-<h3 align="center">I'm Camilli Fidelis </h3>
+<h1 align="center">Hello World </h1> <h3 align="center">I'm Camilli Fidelis </h3>
 <h3 align="center">Student of Information Systems | Aspiring Back-end Java Developer</h3>
 
 ---
