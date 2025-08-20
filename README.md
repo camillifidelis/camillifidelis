@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**camillifidelis/camillifidelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Hello World, I'm Camilli Fidelis, be very welcome! </h3> <br> 
 
-Here are some ideas to get you started:
+Currently, I am a student on the Bachelor's degree in Information Systems at UFRRJ, in Seropédica, Rio de Janeiro. I have a great interest in back-end development.I'm focused on improving my Java skills to pursue my professional path. Previously, I worked as a project advisor at Signal Jr., a junior company at UFRRJ, where I developed skills in teamwork, organization and leadership, in addition to gaining a broader understanding of the software development stages. This experience only increased my enthusiasm for the field.
+<br> <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> Languages, Frameworks and Tools </h3> <br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,java,aws,docker,python,mysql" />
+  </a>
+</p> <br> <br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=camifid&show_icons=true&title_color=831843&text_color=050505&bg_color=fbcfe8&hide_border=true&locale=en&layout=compact" alt="camifid" /></p>
+
+<br>[![](https://visitcount.itsvg.in/api?id=camifid&label=Profile%20Views&color=10&icon=3&pretty=false)](https://visitcount.itsvg.in)
+
