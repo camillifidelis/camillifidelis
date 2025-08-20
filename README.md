@@ -1,5 +1,18 @@
-<h1 align="center">Hello World </h1> <h3 align="center">I'm Camilli Fidelis </h3>
-<h3 align="center">Student of Information Systems | Aspiring Back-end Java Developer</h3>
+<p align="center">
+  <span style="font-size:2.5em; font-weight:bold;">Hello World</span>
+</p>
+
+<p align="center">
+  <span style="font-size:1.8em;">Camilli Fidelis</span>
+</p>
+
+<p align="center">
+  <span style="font-size:1.2em; color:#831843;">
+    Student of Information Systems | Aspiring Back-end Java Developer
+  </span>
+</p>
+
+<hr style="border:1px solid #fbcfe8; width:50%; margin:auto;" />
 
 ---
 
