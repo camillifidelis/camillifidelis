@@ -1,6 +1,5 @@
 <h1 align="center">
- Hello World! 
- <h3 align="center"> I'm Camilli Fidelis </h3>
+ Hello World! I'm Camilli Fidelis
 </h1>
 
 <h3 align="center">
