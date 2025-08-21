@@ -38,9 +38,3 @@ This section will showcase my completed projects soon. All projects will include
 
 ## Contact
 Let's connect: [LinkedIn](https://www.linkedin.com/in/camilli-fidelis-40287b228/) | [Email](mailto:cfidelisg@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=camillifidelis&label=Profile%20Views&color=10&icon=3&pretty=false" />
-</p>
