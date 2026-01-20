@@ -19,7 +19,7 @@
 
 ## Languages, Frameworks and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,java,mysql,c,javascript" />
+  <img src="https://skillicons.dev/icons?i=git,github,java,mysql,javascript" />
 </p>
 
 ---
