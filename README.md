@@ -19,7 +19,7 @@
 
 ## Languages, Frameworks and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,java,aws,docker,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,java,mysql" />
 </p>
 
 ---
@@ -31,10 +31,5 @@
 
 ---
 
-## Projects
-This section will showcase my completed projects soon. All projects will include full descriptions, technologies used, and links to their repositories.
-
----
-
 ## Contact
-Let's connect: [LinkedIn](https://www.linkedin.com/in/camilli-fidelis-40287b228/) | [Email](mailto:cfidelisg@gmail.com)
+Let's connect: [LinkedIn](https://www.linkedin.com/in/camilli-fidelis) | [Email](mailto:cfidelisg@gmail.com)
