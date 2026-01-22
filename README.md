@@ -9,7 +9,7 @@
 
 ---
 
-### Sobre Mim
+### 👩‍💻 Sobre Mim
 * Estudante de Sistemas de Informação na UFRRJ (Seropédica/RJ, Brasil)
 * Interessada em desenvolvimento de software, especialmente back-end e APIs
 * Experiência em projetos em equipe envolvendo requisitos, documentação e organização de entregas
@@ -18,7 +18,7 @@
 
 ---
 
-### Tecnologias e Ferramentas
+### 🛠 Tecnologias e Ferramentas
 <div align="center">
   <a href="https://www.oracle.com/java/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
@@ -45,14 +45,14 @@
 
 ---
 
-### Conhecimentos Praticados
+### 🟣 Conhecimentos Praticados
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camillifidelis&show_icons=true&title_color=5E4A72&icon_color=5E4A72&text_color=333&bg_color=ffffff&hide_border=false&layout=compact" alt="Linguagens mais utilizadas" />
 </div>
 
 ---
 
-### Contato
+### ✉️ Contato
 <p align="center">Vamos trocar experiências sobre desenvolvimento e tecnologia!</p>
 
 <div align="center">
