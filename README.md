@@ -47,7 +47,7 @@
 
 ### 🟣 Conhecimentos Praticados
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillifidelis&layout=compact&langs_count=7&theme=dark&title_color=5E4A72&icon_color=5E4A72&text_color=ffffff&bg_color=000000&hide_border=false" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=camillifidelis&layout=compact&theme=vision-friendly-dark&title_color=5E4A72&icon_color=5E4A72&hide_border=false" alt="Linguagens mais utilizadas" />
 </div>
 
 ---
