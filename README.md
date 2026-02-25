@@ -50,10 +50,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=camillifidelis&layout=compact&theme=vision-friendly-dark&title_color=5E4A72&icon_color=5E4A72&hide_border=false" alt="Linguagens mais utilizadas" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=camillifidelis&show_icons=true&theme=vision-friendly-dark&title_color=5E4A72&icon_color=5E4A72&hide_border=false" alt="Estatísticas do GitHub" />
-</div>
-
 ---
 
 ### ✉️ Contato
