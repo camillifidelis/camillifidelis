@@ -24,8 +24,9 @@ Tenho vivência em projetos colaborativos sob metodologias ágeis, priorizando a
       <br><br>
       <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="38" height="38"/></a>&nbsp;&nbsp;
       <a href="https://spring.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="38" height="38"/></a>&nbsp;&nbsp;
-      <a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="38" height="38"/></a>&nbsp;&nbsp;
-      <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38"/></a>
+      <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38"/></a>&nbsp;&nbsp;
+      <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="38" height="38"/></a>&nbsp;&nbsp;
+      <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="38" height="38"/></a>
     </td>
     <td valign="top" width="33%">
       <img src="https://img.shields.io/badge/Bancos_de_Dados-5E4A72?style=for-the-badge&logoColor=white" />
