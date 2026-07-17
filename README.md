@@ -59,7 +59,8 @@ Tenho vivência em projetos colaborativos sob metodologias ágeis, priorizando a
 <p align="center">Vamos trocar experiências sobre desenvolvimento e tecnologia!</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/camilli-fidelis" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=5E4A72&style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto:cfidelisg@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Email&color=5E4A72&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/camilli-fidelis" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=5E4A72&style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://camillifidelis.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=5E4A72&style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
 </div>
 
 <br>
