@@ -10,9 +10,9 @@
 ---
 
 ### 👩‍💻 Sobre Mim
-Graduanda em Sistemas de Informação pela UFRRJ, com foco no desenvolvimento de soluções Back-end. Possuo experiência prática no ciclo de vida de software, desde o levantamento de requisitos e documentação técnica (UML) até a implementação de APIs RESTful utilizando Java e Spring Boot.
+Graduanda em Sistemas de Informação pela UFRRJ com foco em desenvolvimento Back-end. Possuo experiência prática no ciclo de vida de software, desde a engenharia de requisitos e modelagem (UML) até a construção de APIs RESTful estruturadas utilizando a stack Java e Spring Boot.
 
-Tenho vivência em projetos colaborativos sob metodologias ágeis, priorizando a organização de entregas e a qualidade de código. Atualmente, aprofundo meus conhecimentos em arquitetura de sistemas e novas linguagens como GoLang.
+Tenho vivência em projetos colaborativos sob metodologias ágeis, priorizando arquitetura de sistemas, qualidade de código e bancos de dados (SQL/NoSQL). Atualmente, dedico-me a expandir meu repertório técnico aprofundando-me em boas práticas de desenvolvimento e iniciando meus estudos no ecossistema C# e .NET.
 
 ---
 ### 🛠 Minha Stack Tecnológica
